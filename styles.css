@@ -1,1 +1,6 @@
-/* comentário 
+:root { 
+  --branco-principal: #ffffff; 
+  --cinza-segundario: #c0c0c0; 
+  --botao-azul: #167bf7;
+  --cor-de-fundo: #00030c; 
+} 
